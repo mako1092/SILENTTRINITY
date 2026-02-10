@@ -416,12 +416,12 @@
             "index": "pypi",
             "version": "==1.1.0"
         },
-        "terminaltables": {
+        "terminaltables3": {
             "hashes": [
-                "sha256:f3eb0eb92e3833972ac36796293ca0906e998dc3be91fbe1f8615b331b853b81"
+                "sha256:4e3eefe209aa89005a0a34d1525739424569729ee29b5e64a8dd51c5ebdab77f"
             ],
             "index": "pypi",
-            "version": "==3.1.0"
+            "version": "==4.0.0"
         },
         "toml": {
             "hashes": [

@@ -2,7 +2,7 @@ import asyncio
 import logging
 from typing import List
 from silenttrinity.core.client.utils import command, register_cli_commands
-from terminaltables import SingleTable
+from terminaltables3 import SingleTable
 from time import gmtime, strftime
 
 @register_cli_commands

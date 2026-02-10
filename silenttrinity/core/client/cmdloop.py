@@ -4,7 +4,7 @@ import shlex
 import asyncio
 import shutil
 from docopt import docopt, DocoptExit
-from terminaltables import SingleTable
+from terminaltables3 import SingleTable
 from prompt_toolkit import PromptSession
 from prompt_toolkit.completion import Completer, Completion, PathCompleter
 from prompt_toolkit.patch_stdout import patch_stdout

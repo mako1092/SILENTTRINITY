@@ -2,7 +2,7 @@ import asyncio
 import logging
 from silenttrinity.core.utils import print_good, print_info, print_bad
 from silenttrinity.core.client.utils import command, register_cli_commands
-from terminaltables import SingleTable
+from terminaltables3 import SingleTable
 from termcolor import colored
 from time import gmtime, strftime
 

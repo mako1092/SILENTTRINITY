@@ -5,7 +5,7 @@ from silenttrinity.core.client.connection import ClientConnection
 #from core.client.stats import ClientSessionStats
 from silenttrinity.core.utils import gen_random_string, print_info, print_bad
 from silenttrinity.core.client.utils import command, register_cli_commands
-from terminaltables import SingleTable
+from terminaltables3 import SingleTable
 
 
 @register_cli_commands

@@ -40,7 +40,7 @@ six==1.14.0
 socks5line==0.0.3
 sortedcontainers==2.1.0
 termcolor==1.1.0
-terminaltables==3.1.0
+terminaltables3==4.0.0
 toml==0.10.0
 typing-extensions==3.7.4.1
 urllib3==1.25.8

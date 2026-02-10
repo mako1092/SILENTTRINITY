@@ -1,6 +1,6 @@
 import asyncio
 import logging
-from terminaltables import SingleTable
+from terminaltables3 import SingleTable
 from silenttrinity.core.utils import print_good
 from silenttrinity.core.client.utils import command, register_cli_commands
 
